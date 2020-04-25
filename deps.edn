@@ -1,0 +1,4 @@
+{:deps
+ {cheshire {:mvn/version "5.5.0"}
+  clj-http {:mvn/version "2.1.0"}
+  inflections {:mvn/version "0.12.1"}}}
